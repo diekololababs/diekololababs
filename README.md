@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jdarien
-- 👀 I’m interested in data science
+- 👀 I am a Data Analyst
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis 
 
