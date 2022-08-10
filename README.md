@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jdarien
-- 👀 I am a Data Analyst
-- 💞️ I’m looking to collaborate with like minds on data analytics and Visualization. 
+- 👀 I am a Data Analyst, I train individuals and organization on Data Analytics (Microsoft Excel, Microsoft Power BI, SQL)
+- 💞️ I’m looking to collaborate with like minds on data analytics and Visualization.
 
 
 <!---
