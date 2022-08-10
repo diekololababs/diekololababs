@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jdarien
 - 👀 I am a Data Analyst
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysis 
+- 💞️ I’m looking to collaborate with like minds on data analytics and Visualization. 
 
 
 <!---
