@@ -4,8 +4,7 @@
 
 📌 Skills     
   Analytics Tools: SQL, Microsoft Excel, Power BI, DAX, Python
-  
-  Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
+      Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
 
 
 <!---
