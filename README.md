@@ -5,6 +5,7 @@
   Analytics Tools: SQL, Microsoft Excel, Power BI, DAX, Python
   
   Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
+  
   Project Management: Salesforce, Jira Software
 
 
