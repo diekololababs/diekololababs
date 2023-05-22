@@ -2,7 +2,7 @@
 - 👀A data analyst with perks for big data analysis for insight generation and business optimization.
 
 📌 Skills     
-  Analytics Tools: SQL, Microsoft Excel, Power BI, DAX, Python
+  Analytics Tools: SQL, Microsoft Excel, Power BI, DAX, Python,R
   
   Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
   
