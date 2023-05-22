@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Diekolola
-- 👀A data analyst with perks for big data analysis for insight generation and business optimization.
+- 👀A proactive data driven individual  with a perk for big data analysis for problem solving and business optimization. I am constantly looking for ways to broaden my knowledge and skills in the Data Field.
+-  
 
 📌 Skills     
   Analytics Tools: SQL, Microsoft Excel, Power BI, DAX, Python,R
