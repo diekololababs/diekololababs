@@ -8,7 +8,7 @@
   Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
   
   Project Management: Salesforce, Jira Software
-
+Non-Technical skills: Research, detailed reporting,Critical thinking
 
 <!---
 Jdarien/Jdarien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
