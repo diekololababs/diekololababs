@@ -8,6 +8,8 @@
   Data Analysis: Data Cleaning, Data Extraction, Data Exploration, Data Visualization and Creating Interactive Dashboards. 
   
   Project Management: Salesforce, Jira Software
+  
+  
 Non-Technical skills: Research, detailed reporting,Critical thinking
 
 <!---
