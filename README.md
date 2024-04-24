@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diekolola
-- 👀An accomplished Data Analyst proficient in SQL, Excel, Power BI, and Python. Passionate about data analysis and visualization to drive informed business decisions. Detail-oriented with a talent for uncovering insights from complex datasets. Excels in independent and collaborative projects, delivering impactful solutions through a results-driven mindset. Continuously expanding skills to provide cutting-edge data analytics expertise. Seeks opportunities to leverage strong analytical abilities in a dynamic, data-driven organization.
+- 👀An accomplished Data Analyst proficient in SQL, Excel, Power BI, and Python.
 
 📌 Skills     
 
