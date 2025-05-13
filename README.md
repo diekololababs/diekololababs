@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diekolola
+- 👋 Hi, I’m @Diekolola Babatunde
 - 👀A Data Analyst proficient in SQL, Excel, Power BI, and Python.
 
 📌 Skills     
