@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diekolola
-- 👀An accomplished Data Analyst proficient in SQL, Excel, Power BI, and Python.
+- 👀A Data Analyst proficient in SQL, Excel, Power BI, and Python.
 
 📌 Skills     
 
